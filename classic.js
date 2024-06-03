@@ -1,6 +1,6 @@
 /*
 
-› Create By Haikal (HW MODS)
+› Create By Joshuamambo1 (HW MODS)
 › Base Ori Haikal (HW MODS)
 
 🌷 KALAU MAU RENAME TARO CREDITS GUA : Haikal (HW MODS)
@@ -779,8 +779,8 @@ break
 case 'menu': case 'help': {
 await loading()
                             ewe = `┏━━━▓ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* ▓━━━━━
-┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
-┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
+┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 JOSH ❵
+┃  ➥ 𝐔𝐬𝐞𝐫 : ${JOSHKING}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┃
 ┣╼╼❴ ⧠ ᏴϴͲ ᏆΝҒϴ ⧠ ❵╼╼╼
